@@ -1,6 +1,6 @@
 azure-cli-core==2.34.1
 bson==0.5.10
 Flask==3.1.2
-requests
-Jinja2
-Werkzeug
+requests==2.32.5
+Jinja2==3.1.6
+Werkzeug==3.1.3
